@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3 align="start">Hi 👋🏼, I'm Wandy, Software Engineer.</h3>
 
-<!--
-**sntwandy/sntwandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 I’m currently working in AI and the next Revolution of the Humanity.
 
-Here are some ideas to get you started:
+<p align="start" >From Dominican Republic 🇩🇴 to the Universe.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p >
+<a href="https://github.com/sntwandy"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
+</p>
+
+**About me, maybe:**
+
+- 💻 Passionate to technology and the 🌎 future.
+- 📫 Contact me: sntwandy@gmail.com
