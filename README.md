@@ -13,4 +13,6 @@
 - 💻 Passionate to technology and the 🌎 future.
 - 📫 Contact me: sntwandy@gmail.com
 
-❤️🏹
+17❤️🏹
+
+D🐶Q🐶Z🐶A🐶R🐶E🐶L🐶Ll🐶
