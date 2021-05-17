@@ -12,3 +12,5 @@
 
 - 💻 Passionate to technology and the 🌎 future.
 - 📫 Contact me: sntwandy@gmail.com
+
+❤️🏹
