@@ -16,3 +16,6 @@
 17❤️🏹
 
 D🐶Q🐶Z🐶A🐶R🐶E🐶L🐶
+
+![sntwandy's github stats](https://github-readme-stats.vercel.app/api?username=sntwandy&show_icons=true&theme=light)
+![sntwandy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntwandy&theme=light&layout=compact)
