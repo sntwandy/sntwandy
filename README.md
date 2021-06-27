@@ -8,7 +8,7 @@
 <a href="https://github.com/sntwandy"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
 </p>
 
-**About me, maybe:**
+**A little bit about me:**
 
 - 💻 Passionate to technology and the 🌎 future.
 - 📫 Contact me: sntwandy@gmail.com
