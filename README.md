@@ -11,6 +11,8 @@
 **A little bit about me:**
 
 - 💻 Passionate to technology and the 🌎 future.
+- JavaScript and Python snake
+- @platzi student green_heart
 - 📫 Contact me: sntwandy@gmail.com
 
 17❤️🏹
