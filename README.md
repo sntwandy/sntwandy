@@ -4,6 +4,8 @@
 
 <p align="start" >From Dominican Republic 🇩🇴 to the Universe.</p>
 
+## My Github stats
+![sntwandy's github stats](https://github-readme-stats.vercel.app/api?username=sntwandy&show_icons=true&theme=dark)
 <p >
 <a href="https://github.com/sntwandy"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
 </p>
@@ -15,9 +17,9 @@
 - @platzi student 💚
 - 📫 Contact me: sntwandy@gmail.com
 
+## My Github top langs
+![sntwandy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntwandy&theme=dark&layout=compact)
+
 17❤️🏹
 
 D🐶Q🐶Z🐶A🐶R🐶E🐶L🐶
-
-![sntwandy's github stats](https://github-readme-stats.vercel.app/api?username=sntwandy&show_icons=true&theme=dark)
-![sntwandy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntwandy&theme=dark&layout=compact)
