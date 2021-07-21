@@ -1,6 +1,6 @@
 <h3 align="start">Hi 👋🏼, I'm Wandy, Software Engineer.</h3>
 
-- 🌎 I’m currently working at @CareYouTeam, and the next Revolution of the Humanity.
+- 🌎 I’m currently working as a Software Engineer.
 
 <p align="start" >From Dominican Republic 🇩🇴 to the Universe.</p>
 
