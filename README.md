@@ -1,6 +1,6 @@
 <h3 align="start">Hi 👋🏼, I'm Wandy, Software Engineer.</h3>
 
-- 🌎 I’m currently working as a Software Engineer.
+- 🌎 I’m currently working as a Software Engineer at NewTech.
 
 <p align="start" >From Dominican Republic 🇩🇴 to the Universe.</p>
 
@@ -13,13 +13,12 @@
 **A little bit about me:**
 
 - 💻 Passionate to technology and the 🌎 future.
-- JavaScript and Python 🐍
+- JavaScript.💛
 - @platzi student 💚
-- 📫 Contact me: sntwandy@gmail.com
 
 ## My Github top langs
 ![sntwandy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntwandy&theme=dark&layout=compact)
 
-17❤️🏹
+| Medy❤️🏹 |
 
-D🐶Q🐶Z🐶A🐶R🐶E🐶L🐶
+| D🐶Q🐶Z🐶A🐶R🐶E🐶L🐶 |
