@@ -2,7 +2,7 @@
 
 - 🌎 I’m currently working as a Software Engineer.
 
-<p align="start" >From Dominican Republic 🇩🇴 to the Universe.</p>
+<p align="start" >From Mars.</p>
 
 ## My Github stats
 ![sntwandy's github stats](https://github-readme-stats.vercel.app/api?username=sntwandy&show_icons=true&theme=dark)
