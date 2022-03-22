@@ -61,12 +61,6 @@
   </a>
 </p>
 
-<h3 align="center">My Github Stats:</h3>
-![sntwandy's github stats](https://github-readme-stats.vercel.app/api?username=sntwandy&show_icons=true&theme=dark)
-<p >
-<a href="https://github.com/sntwandy"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
-</p>
-
 | Medy❤️🏹 |
 
 | D🐶Q🐶Z🐶A🐶R🐶E🐶L🐶 |
