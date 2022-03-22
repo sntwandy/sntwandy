@@ -61,6 +61,5 @@
   </a>
 </p>
 
-| Medy❤️🏹 |
-
-| D🐶Q🐶Z🐶A🐶R🐶E🐶L🐶 |
+<p align="center">Medy❤️🏹</p>
+<p align="center">D🐶Q🐶Z🐶A🐶R🐶E🐶L🐶</p>
